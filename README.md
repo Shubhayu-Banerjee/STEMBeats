@@ -37,4 +37,4 @@ Each of these formulas generates a different pattern of beats, tempo, or pitch b
 Install dependencies:
 
 ```bash
-pip install customtkinter pygame pillow numpy sounddevice sympy
+pip install customtkinter pygame pillow numpy sounddevice sympy tkinter
