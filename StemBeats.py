@@ -60,7 +60,7 @@ class SoundLoop:
 class PhysicsApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Physics Formula Visualizer")
+        self.root.title("StemBeats")
         self.root.geometry("1200x700")
 
         # Configure dark blue-purple gradient background
